@@ -4,7 +4,7 @@
     <list default="true" id="75306262-d577-4341-b909-90d5fe025aff" name="Default" comment="" />
     <ignored path="LSP.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Parameters.java" changelist="75306262-d577-4341-b909-90d5fe025aff" time="1412999197179" ignored="false" />
+    <file path="/Parameters.java" changelist="75306262-d577-4341-b909-90d5fe025aff" time="1413001863362" ignored="false" />
     <file path="/MessageTypes.java" changelist="75306262-d577-4341-b909-90d5fe025aff" time="1412999642414" ignored="false" />
     <file path="/Message.java" changelist="75306262-d577-4341-b909-90d5fe025aff" time="1413000063752" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,7 +70,7 @@
       <file leaf-file-name="Parameters.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Parameters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="13" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.9119718">
+            <state line="36" column="4" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.8239437">
               <folding />
             </state>
           </provider>
@@ -104,9 +104,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Parameters.java" />
         <option value="$PROJECT_DIR$/src/MessageTypes.java" />
         <option value="$PROJECT_DIR$/src/Message.java" />
+        <option value="$PROJECT_DIR$/src/Parameters.java" />
       </list>
     </option>
   </component>
@@ -406,7 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Parameters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="13" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.9119718">
+        <state line="36" column="4" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.8239437">
           <folding />
         </state>
       </provider>
